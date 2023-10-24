@@ -6,7 +6,9 @@
 # Hello, and welcome to my GitHub portfolio. 👋🏼
 
 ## My name is Reginald. I received my bachelor's degree in Computer Science in May of 2023. 🎓
-- I tend to make many side projects in my free time to boost my portfolio. As of writing this, you may see me working on my biggest project yet, an interactive discord bot that will allow Discord users to play a spin-off version of the hit game show, Family Feud, in **real time**. Check it out here: ![Static Badge](https://img.shields.io/badge/Discord_Feud-green?style=flat-square&logo=github&link=https%3A%2F%2Fgithub.com%2FReginald231%2FDiscordFeud)
+- I tend to make many side projects in my free time to boost my portfolio. As of writing this, you may see me working on my biggest project yet, an interactive discord bot that will allow Discord users to play a spin-off version of the hit game show, Family Feud, in **real time**. Check it out here:
+<a href="https://www.github.com/Reginald231/DiscordFeud"> <img alt="Static Badge" src="https://img.shields.io/badge/Discord_Feud-green?style=flat-square&logo=GitHub"/></a>
+
 
 
 - I have plans of making my own website to showcase my work and to delve deeper into web development using JavaScript, HTML, and the React framework, so stay tuned.
@@ -41,9 +43,9 @@
 ## Enjoy the programs I create? Consider leaving a donation! ☕️
 Donations are never required, but they are always deeply appreciated. You can support me on Buy Me A Coffee, using the button below:
 
-![Donations]
+<a href = "https://buymeacoffee.com/" /> <img alt = "Static-Badge" src = "https://img.shields.io/badge/Buy_Me_A_Coffee!-yellow?style=flat-square&logo=buymeacoffee"/></a>
 
-[![Hits](https://hits.sh/github.com/Reginald231.svg?label=Hits)](https://hits.sh/github.com/Reginald231/)
+[![Hits](https://hits.sh/github.com/Reginald231.svg?label=Hits&style=flat-square)](https://hits.sh/github.com/Reginald231/)
 
 <!------------------------------------------------------------------------>
 
@@ -80,6 +82,3 @@ Donations are never required, but they are always deeply appreciated. You can su
 
 [Windows]: https://img.shields.io/badge/Windows-black?style=flat-square&logo=windows
 
-
-<!-- Support Buttons -->
-[Donations]: https://img.shields.io/badge/Buy_Me_A_Coffee!-yellow?style=flat-square&logo=buymeacoffee&link=https%3A%2F%2Fwww.buymeacoffee.com%2Fv2ftrsbdkv7
