@@ -13,7 +13,9 @@
 
 - I have plans of making my own website to showcase my work and to delve deeper into web development using JavaScript, HTML, and the React framework, so stay tuned.
 
-- I plan to boost my skillset so that I can work as a full stack developer, both as a career and as a hobby. I have desires to develop my own apps with interest in making them cross platform for both Android and iOS devices.
+- I plan to boost my skillset so that I can start my career, and eventually, work as a full stack developer, both as a career and as a hobby. I have desires to develop my own apps with interest in making them cross platform for both Android and iOS devices.
+
+- Check out the pinned repositories below to see the work I'm most proud of.
 
 
 <br>
