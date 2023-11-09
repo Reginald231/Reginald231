@@ -45,7 +45,7 @@
 ## Do you enjoy the programs I create? Consider leaving a donation! ☕️
 Donations are never required, but they are always deeply appreciated. You can support me on Buy Me A Coffee, using the button below:
 
-<a href = "https://www.buymeacoffee.com/v2ftrsbdkv7" /> <img alt = "Static-Badge" src = "https://img.shields.io/badge/Buy_Me_A_Coffee!-yellow?style=flat-square&logo=buymeacoffee"/></a>
+<a href = "https://buymeacoffee.com/Reg_" /> <img alt = "Static-Badge" src = "https://img.shields.io/badge/Buy_Me_A_Coffee!-yellow?style=flat-square&logo=buymeacoffee"/></a>
 
 [![Hits](https://hits.sh/github.com/Reginald231.svg?label=Hits&style=flat-square)](https://hits.sh/github.com/Reginald231/)
 
