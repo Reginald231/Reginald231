@@ -18,7 +18,6 @@
 
 - Check out the pinned repositories to see the work I'm most proud of.
 
-<div align = center>
 
 ## GitHub History 📈
 
@@ -26,13 +25,25 @@
 
 
 <!-- GitHub README Stats -->
-<a href="https://github.com/Reginald231/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-kappa-seven-96.vercel.app/api?username=Reginald231&count_private=true&show_icons=true&custom_title=Reginald's%20GitHub%20Stats&include_allcommits=true&theme=transparent&hide=contribs,stars,issues&show=prs_merged_percentage&hide_rank=true"/>
-</a>
 
+<div style="display: flex; flex-direction: row;">
+ <img class="img" height=200 align=center style="max-width: 100%;" src="https://github-readme-stats-kappa-seven-96.vercel.app/api?username=Reginald231&count_private=true&show_icons=true&custom_title=Reginald's%20GitHub%20Stats&include_allcommits=true&theme=transparent&hide=contribs,stars,issues&show=prs_merged_percentage&hide_rank=true" />
+ <img class="img" height=200 style="max-width: 100%;" src="https://github.com/Reginald231/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reginald231&card_width=320&count_private=true&show_icons=true&theme=transparent&hide_progress=true&hide=cmake,makefile,powershell" />
+</div>
+
+<div align = center>
+
+
+
+<!-- <div>
 <a href="https://github.com/Reginald231/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reginald231&count_private=true&show_icons=true&theme=transparent&hide_progress=true&hide=cmake,makefile,powershell"/>
+  <img height=200 align="center" src="https://github-readme-stats-kappa-seven-96.vercel.app/api?username=Reginald231&card_width=320count_private=true&show_icons=true&custom_title=Reginald's%20GitHub%20Stats&include_allcommits=true&theme=transparent&hide=contribs,stars,issues&show=prs_merged_percentage&hide_rank=true"/>
 </a>
+<a href="https://github.com/Reginald231/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reginald231&card_width=320&layout=compact&count_private=true&show_icons=true&theme=transparent&hide_progress=true&hide=cmake,makefile,powershell"/>
+</a>
+<div/> -->
 
 
 
@@ -58,8 +69,8 @@
 <br>
 <br>
 
-## Do you enjoy the programs I create? Consider leaving a donation! ☕️
-Donations are never required, but they are always deeply appreciated. You can support me on Buy Me A Coffee, using the button below:
+## Do you enjoy the programs I create? Consider leaving a tip! ☕️
+Tips are never required, but they are always deeply appreciated. You can support me on Buy Me A Coffee, using the button below:
 
 <a href = "https://buymeacoffee.com/Reg_" /> <img alt = "Static-Badge" src = "https://img.shields.io/badge/Buy_Me_A_Coffee!-yellow?style=flat-square&logo=buymeacoffee"/></a>
 
