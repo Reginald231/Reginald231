@@ -3,10 +3,11 @@
 </br>
 
 
+
 # Hello, and welcome to my GitHub portfolio. 👋🏼
 
 ## My name is Reginald. I received my bachelor's degree in Computer Science in May of 2023. 🎓
-- I tend to make many side projects in my free time to boost my portfolio. As of writing this, you may see me working on my biggest project yet, an interactive discord bot that will allow Discord users to play a spin-off version of the hit game show, Family Feud, in **real time**. Check it out here:
+- I tend to make many side projects in my free time to boost my portfolio. As of writing this, you may see me working on my biggest project yet, an interactive discord bot that will allow Discord users to play a spin-off version of the hit game show, Family Feud, in **real time**. <br><br>Check it out here:
 <a href="https://www.github.com/Reginald231/DiscordFeud"> <img alt="Static Badge" src="https://img.shields.io/badge/Discord_Feud-green?style=flat-square&logo=GitHub"/></a>
 
 
@@ -17,10 +18,25 @@
 
 - Check out the pinned repositories to see the work I'm most proud of.
 
+<div align = center>
+
+## GitHub History 📈
 
 <br>
 
-<div align = center>
+
+<!-- GitHub README Stats -->
+<a href="https://github.com/Reginald231/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-kappa-seven-96.vercel.app/api?username=Reginald231&count_private=true&show_icons=true&custom_title=Reginald's%20GitHub%20Stats&include_allcommits=true&theme=transparent&hide=contribs,stars,issues&show=prs_merged_percentage&hide_rank=true"/>
+</a>
+
+<a href="https://github.com/Reginald231/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reginald231&count_private=true&show_icons=true&theme=transparent&hide_progress=true&hide=cmake,makefile,powershell"/>
+</a>
+
+
+
+
 
 ## Languages and Frameworks I've Worked With 📖
 
@@ -84,3 +100,7 @@ Donations are never required, but they are always deeply appreciated. You can su
 
 [Windows]: https://img.shields.io/badge/Windows-black?style=flat-square&logo=windows
 
+
+[GitHubStats]: https://github-readme-stats-kappa-seven-96.vercel.app/api?username=Reginald231&count_private=true&show_icons=true&custom_title=Reginald's%20GitHub%20Stats&include_allcommits=true&theme=transparent&hide=contribs,stars,issues&show=prs_merged_percentage&hide_rank=true
+
+[LanguageStats]: https://github-readme-stats.vercel.app/api/top-langs/?username=Reginald231&count_private=true&show_icons=true&theme=transparent&hide_progress=true&hide=cmake,makefile,powershell
