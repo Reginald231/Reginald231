@@ -27,15 +27,15 @@
 <!-- GitHub README Stats -->
 
 
-<div style="display: flex; flex-direction: float;">
- <img class="img" height=250 align=center src="https://github-readme-stats-kappa-seven-96.vercel.app/api?username=Reginald231&count_private=true&show_icons=true&custom_title=Reginald's%20GitHub%20Stats&include_allcommits=true&theme=transparent&hide=contribs,stars,issues&card_width=100px&show=prs_merged_percentage&hide_rank=true" />
- <img class="img" height=250 align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reginald231&count_private=true&card_width=100pxshow_icons=true&theme=transparent&hide_progress=true&hide=cmake,makefile,powershell" />
-</div>
 
 
 
 <div align = center>
 
+<div style="display: flex; flex-direction: flex;">
+ <img class="img" height=150 align=center src="https://github-readme-stats-kappa-seven-96.vercel.app/api?username=Reginald231&count_private=true&show_icons=true&custom_title=Reginald's%20GitHub%20Stats&include_allcommits=true&theme=transparent&hide=contribs,stars,issues&card_width=200px&show=prs_merged_percentage&hide_rank=true" />
+ <img class="img" height=150 align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reginald231&count_private=true&card_width=200pxshow_icons=true&theme=transparent&hide_progress=true&hide=cmake,makefile,powershell" />
+</div>
 
 
 
