@@ -1,5 +1,3 @@
-<br>
-
 </br>
 
 
@@ -18,23 +16,21 @@
 
 - Check out the pinned repositories to see the work I'm most proud of.
 
-
+<div align = center>
+<br>
+<br>
+ 
 ## GitHub History 📈
 
-<br>
+
 
 
 <!-- GitHub README Stats -->
 
 
-
-
-
-<div align = center>
-
-<div style="display: flex; flex-direction: flex;">
- <img class="img" height=150 align=center src="https://github-readme-stats-kappa-seven-96.vercel.app/api?username=Reginald231&count_private=true&show_icons=true&custom_title=Reginald's%20GitHub%20Stats&include_allcommits=true&theme=transparent&hide=contribs,stars,issues&card_width=200px&show=prs_merged_percentage&hide_rank=true" />
- <img class="img" height=150 align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reginald231&count_private=true&card_width=200pxshow_icons=true&theme=transparent&hide_progress=true&hide=cmake,makefile,powershell" />
+<div align=center style="display: flex; flex-direction: flex;">
+ <img class="img" height=200 align=center src="https://github-readme-stats-kappa-seven-96.vercel.app/api?username=Reginald231&count_private=true&show_icons=true&custom_title=Reginald's%20GitHub%20Stats&include_allcommits=true&theme=transparent&hide=contribs,stars,issues&card_width=200px&show=prs_merged_percentage&hide_rank=true" />
+ <img class="img" height=200 align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reginald231&count_private=true&card_width=200pxshow_icons=true&theme=transparent&hide_progress=true&hide=cmake,makefile,powershell" />
 </div>
 
 
@@ -42,12 +38,26 @@
 
 ## Languages and Frameworks I've Worked With 📖
 
-![Java] ![C++] ![Python] ![Swift] ![HTML] ![JavaScript] 
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+</p>
 
-![SQL] ![MySQL] ![SQLite] 
+<p align="center">
+<img src="https://cyclr.com/wp-content/uploads/2022/03/ext-550.png" alt="Microsoft SQL Server" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="45" height="45"/>
+</p>
 
-![Gradle] ![JUnit5] ![Selenium]
-
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" alt="Gradle" width="45" height="45"/>
+<img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit5" width="45" height="45"/>
+<img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" alt="Selenium" width="45" height="45"/>
+</p>
 
 
 <br>
@@ -55,7 +65,13 @@
 
 ## Operating Systems I've Worked With 🖥️
 
-![macOS] ![Linux] ![Windows]
+
+<p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MacOS_logo_%282017%29.svg/2060px-MacOS_logo_%282017%29.svg.png" alt="macOS" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="45" height="45"/>
+          
+</p>
 
 <br>
 <br>
@@ -65,7 +81,11 @@ Tips are never required, but they are always deeply appreciated. You can support
 
 <a href = "https://buymeacoffee.com/Reg_" /> <img alt = "Static-Badge" src = "https://img.shields.io/badge/Buy_Me_A_Coffee!-yellow?style=flat-square&logo=buymeacoffee"/></a>
 
+
+
 [![Hits](https://hits.sh/github.com/Reginald231.svg?label=Hits&style=flat-square)](https://hits.sh/github.com/Reginald231/)
+
+
 
 <!------------------------------------------------------------------------>
 
