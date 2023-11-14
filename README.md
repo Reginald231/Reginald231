@@ -26,9 +26,10 @@
 
 <!-- GitHub README Stats -->
 
+
 <div style="display: flex; flex-direction: float;">
- <img class="img" height=200 align=middle src="https://github-readme-stats-kappa-seven-96.vercel.app/api?username=Reginald231&count_private=true&show_icons=true&custom_title=Reginald's%20GitHub%20Stats&include_allcommits=true&theme=transparent&hide=contribs,stars,issues&show=prs_merged_percentage&hide_rank=true" />
- <img class="img" height=200 align=middle src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reginald231&layout=compact&count_private=true&show_icons=true&theme=transparent&hide_progress=true&hide=cmake,makefile,powershell" />
+ <img class="img" height=250 align=center src="https://github-readme-stats-kappa-seven-96.vercel.app/api?username=Reginald231&count_private=true&show_icons=true&custom_title=Reginald's%20GitHub%20Stats&include_allcommits=true&theme=transparent&hide=contribs,stars,issues&card_width=100px&show=prs_merged_percentage&hide_rank=true" />
+ <img class="img" height=250 align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reginald231&count_private=true&card_width=100pxshow_icons=true&theme=transparent&hide_progress=true&hide=cmake,makefile,powershell" />
 </div>
 
 
@@ -102,6 +103,6 @@ Tips are never required, but they are always deeply appreciated. You can support
 [Windows]: https://img.shields.io/badge/Windows-black?style=flat-square&logo=windows
 
 
-[GitHubStats]: https://github-readme-stats-kappa-seven-96.vercel.app/api?username=Reginald231&count_private=true&show_icons=true&custom_title=Reginald's%20GitHub%20Stats&include_allcommits=true&theme=transparent&hide=contribs,stars,issues&show=prs_merged_percentage&hide_rank=true
+[GitHubStats]: https://github-readme-stats-kappa-seven-96.vercel.app/api?username=Reginald231&card_width=200&count_private=true&show_icons=true&custom_title=Reginald's%20GitHub%20Stats&include_allcommits=true&theme=transparent&hide=contribs,stars,issues&show=prs_merged_percentage&hide_rank=true
 
-[LanguageStats]: https://github-readme-stats.vercel.app/api/top-langs/?username=Reginald231&count_private=true&show_icons=true&theme=transparent&hide_progress=true&hide=cmake,makefile,powershell
+[LanguageStats]: https://github-readme-stats.vercel.app/api/top-langs/?username=Reginald231&card_width=200&count_private=true&show_icons=true&theme=transparent&hide_progress=true&hide=cmake,makefile,powershell
